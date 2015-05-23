@@ -13,3 +13,6 @@
 
 # From isjukuKazu
 勝手に書き込みます
+
+#from agvg25 github
+なにかをちか
