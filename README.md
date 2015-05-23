@@ -10,3 +10,6 @@
 
 # From GitHub
 プッシュのテスト
+
+# From isjukuKazu
+勝手に書き込みます
