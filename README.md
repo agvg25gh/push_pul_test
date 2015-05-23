@@ -7,3 +7,6 @@
 
 # From command line
 プッシュのテスト
+
+# From GitHub
+プッシュのテスト
