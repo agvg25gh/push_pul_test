@@ -4,3 +4,6 @@
 
 # From GitHub
 プルのテスト
+
+# From command line
+プッシュのテスト
